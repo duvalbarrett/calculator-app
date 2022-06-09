@@ -1,10 +1,6 @@
-
-#Calculator App Made With React
-
-<img width="1552" alt="Screen Shot 2022-06-09 at 6 52 28 PM" src="https://user-images.githubusercontent.com/97458251/172958390-3ad6136f-dff0-43c0-b315-b2bd97907d44.png">
-<img width="1552" alt="Screen Shot 2022-06-09 at 6 52 17 PM" src="https://user-images.githubusercontent.com/97458251/172958391-166b422e-d9d6-4af5-90ce-b67dd411653e.png">
-
-
+Calculator App Made With React
+<img width="916" alt="Screen Shot 2022-06-09 at 6 52 17 PM" src="https://user-images.githubusercontent.com/97458251/172958557-424e9310-200c-4bb7-9a9e-5802d3c2f9e9.png">
+<img width="1086" alt="Screen Shot 2022-06-09 at 6 52 28 PM" src="https://user-images.githubusercontent.com/97458251/172958558-4bc41aac-c538-4e21-ad11-f6562674bf57.png">
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
